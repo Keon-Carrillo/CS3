@@ -1,5 +1,6 @@
-Annex A
-Computational Thinking Exercise: "Smart School Canteen Queue"
+**Annex A**
+
+**Computational Thinking Exercise: "Smart School Canteen Queue"**
 
 Section: Samat | Score:____________
 
@@ -45,5 +46,5 @@ Your group’s task is to decompose this problem into smaller, manageable parts 
 
 **Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem**
 - Example: Flowchart of Solution of “Computing change is hard”
-  ![Flowchart](<img width="619" height="379" alt="Flowchart CS3" src="https://github.com/user-attachments/assets/16c8c538-015f-4c40-a43d-c9fb1f273c84" />)
-
+  
+  [Flowchart](https://drive.google.com/file/d/1Ym1W0yYnu-CM_famH98PZutoAufwwiVY/view?usp=sharing)
