@@ -69,12 +69,7 @@ EndAlgorithm
    
 Which algorithm is faster when the list of numbers is very large? Why?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
-
+Pseudocode 1 is much more efficient with a larger dataset, since it only goes through the list once. On the other hand, Pseudocode 2 compares each number with every other number, so it has to do many more comparisons as the list gets bigger.
 Checklist to guide your answer:
 
 | PseudoCode 1 | Pseudocode 2 |
@@ -115,12 +110,7 @@ Checklist to guide your answer:
    
 Which algorithm is easier to test with different inputs? Why?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
-
+PseudoCode 1 is easier to test because it has a simpler process for finding the largest number. You can try different lists, such as lists with positive numbers, negative numbers, or repeated numbers, and easily check whether the answer is correct. PseudoCode 2 is harder to test because it compares every number with all the other numbers, creating many more comparisons to check. Both algorithms have predictable outputs, but PseudoCode 1 has fewer conditions and is easier to understand and verify.
 Checklist to guide your answer:
 
 | PseudoCode 1 | Pseudocode 2 |
