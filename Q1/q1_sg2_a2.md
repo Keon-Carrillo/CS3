@@ -2,9 +2,9 @@
 
 **Code Quality Assessment Worksheet**
 
-**Section: 9-Samat                            Score:____**
+**Section: 9-Samat              |              Score:____**
 
-**C# / Name: #4, #5, #6                       Date: 08/15/2026**
+**C# / Name: #4, #5, #6         |              Date: 08/15/2026**
 
 
 **Instructions:**
