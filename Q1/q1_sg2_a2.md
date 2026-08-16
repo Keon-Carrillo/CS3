@@ -74,9 +74,9 @@ Checklist to guide your answer:
 
 | PseudoCode 1 | Pseudocode 2 |
 |---|---|
-| [ ] Does the algorithm use one loop or two nested loops? | [ ] Does the algorithm use one loop or two nested loops? |
-| [ ] Does the algorithm repeat work unnecessarily? | [ ] Does the algorithm repeat work unnecessarily? |
-| [ ] Which algorithm finishes in fewer steps? | [ ] Which algorithm finishes in fewer steps? |
+| Does the algorithm use one loop or two nested loops? [One loop] | Does the algorithm use one loop or two nested loops? [Two loops]|
+| Does the algorithm repeat work unnecessarily? [No] | Does the algorithm repeat work unnecessarily? [Yes]|
+| Which algorithm finishes in fewer steps? [Algorithm 1] | Which algorithm finishes in fewer steps? [Algorithm 1] |
 
 2. Readability
 
@@ -88,9 +88,9 @@ Checklist to guide your answer:
 
 | PseudoCode 1 | Pseudocode 2 |
 |---|---|
-| [ ] Are variable names meaningful (e.g., max vs. bigger)? | [ ] Are variable names meaningful (e.g., max vs. bigger)? |
-| [ ] Is the logic simple or complicated? | [ ] Is the logic simple or complicated? |
-| [ ] Are there fewer lines of code? | [ ] Are there fewer lines of code? |
+| Are variable names meaningful (e.g., max vs. bigger)? [Yes] | Are variable names meaningful (e.g., max vs. bigger)? [No] |
+| Is the logic simple or complicated? [Simple] | [ ] Is the logic simple or complicated? [Complicated] |
+| Are there fewer lines of code? [Yes] | Are there fewer lines of code? [No] |
 
 3. Maintainability
    
@@ -102,9 +102,9 @@ Checklist to guide your answer:
 
 | PseudoCode 1 | Pseudocode 2 |
 |---|---|
-| [ ] Is the structure straightforward? | [ ] Is the structure straightforward? |
-| [ ] Would adding new steps break the code easily? | [ ] Would adding new steps break the code easily? |
-| [ ] Is there less chance of errors when updating? | [ ] Is there less chance of errors when updating? |
+| Is the structure straightforward? [Yes] | Is the structure straightforward? [No] |
+| Would adding new steps break the code easily? [No] | Would adding new steps break the code easily? [Yes] |
+| Is there less chance of errors when updating? [Yes] | Is there less chance of errors when updating? [No] |
 
 4. Testability
    
@@ -115,9 +115,9 @@ Checklist to guide your answer:
 
 | PseudoCode 1 | Pseudocode 2 |
 |---|---|
-| [ ] Can you test with small lists easily? | [ ] Can you test with small lists easily? |
-| [ ] Does the algorithm have fewer conditions to check? | [ ] Does the algorithm have fewer conditions to check? |
-| [ ] Is the output predictable and clear? | [ ] Is the output predictable and clear? |
+| Can you test with small lists easily? [Yes] | Can you test with small lists easily? [No] |
+| Does the algorithm have fewer conditions to check? [Yes] | Does the algorithm have fewer conditions to check? [No] |
+| Is the output predictable and clear? [Yes] | Is the output predictable and clear? [No] |
 
 5. Security
    
@@ -133,9 +133,9 @@ Checklist to guide your answer:
 
 | PseudoCode 1 | Pseudocode 2 |
 |---|---|
-| [ ] Does the algorithm check if the list is empty? | [ ] Does the algorithm check if the list is empty? |
-| [ ] Does it handle invalid inputs (like letters instead of numbers)? | [ ] Does it handle invalid inputs (like letters instead of       numbers)? |
-| [ ] Does it avoid crashing when inputs are unusual? | [ ] Does it avoid crashing when inputs are unusual? |
+| Does the algorithm check if the list is empty? [No] | Does the algorithm check if the list is empty? [No] |
+| Does it handle invalid inputs (like letters instead of numbers)? [No] | Does it handle invalid inputs (like letters instead of       numbers)? [No] |
+| Does it avoid crashing when inputs are unusual? [No] | Does it avoid crashing when inputs are unusual? [No] |
 
 6. Final Answer
 Based on your answers from 1 to 5, which one is the better algorithm that you will use to solve the problem of finding the highest number? Why? Summarize your answer
