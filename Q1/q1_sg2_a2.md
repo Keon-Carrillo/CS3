@@ -123,11 +123,7 @@ Checklist to guide your answer:
    
 Imagine the input list comes from a user. What should the algorithm check to avoid errors or misuse?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+The algorithm should check for inputs that are letters or special characters as they do not comply with the required data type (floats and/or integers).
 
 Checklist to guide your answer:
 
