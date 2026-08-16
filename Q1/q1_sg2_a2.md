@@ -86,11 +86,7 @@ Checklist to guide your answer:
 
 Which algorithm is easier to understand at first glance? What makes it clearer?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+It’s easier for me to understand the flow of Pseudocode 1 because the code is rationally concise and adequate for simply looking for the maximum number. Pseudocode 2 however makes use of multiple indentations and for loops which seems to overcomplicate and overengineer the solution.
 
 Checklist to guide your answer:
 
@@ -104,11 +100,7 @@ Checklist to guide your answer:
    
 If you had to add a new feature (like finding both max and min), which algorithm would be easier to update? Why?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+The algorithm of Pseudocode 1 would be easier to update as it is less cluttered and there are fewer lines of code that you need to consider when changing the flow of the program. Whereas in Pseudocode 2, the usage of multiple lines, loops, and if-statements require you to reorganize everything upon a new addition.
 
 Checklist to guide your answer:
 
